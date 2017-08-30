@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Yaah:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Yaah_jar</output-path>
+    <root id="archive" name="Yaah.jar">
+      <element id="module-output" name="Yaah" />
+    </root>
+  </artifact>
+</component>
